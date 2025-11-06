@@ -1,13 +1,13 @@
-# project general Ёq╔н╪р╡уЁ]╜p
-Ёo╛O╖з╔H Common Lisp ╣{╕║╩y╗╔╔Ч╥s╚ь╨c╓@╞К╔Ь╥~╗t╡н╙╨Ёq╔н╪р╡у║C
+# project general И─ Г■╗Ф╗║Г╣└Х╗╜Х╗┬
+И─≥Ф≤╞Ф┬▒Д╩╔ Common Lisp Г╗▀Е╪▐Х╙·Х╗─Е┘╗Ф√╟Е╩╨Ф╖▀Д╦─Х┬╛Д╪│Ф╔╜ГЁ╩Г╣╠Г └И─ Г■╗Ф╗║Г╣└Ц─┌
 
-## ╪р╡у
-### ╡ндw╪р╡у
-+ [] ...
-### ╦Й╥╫╪р╡у
-+ [x] rc/pkg-staff.lisp ╕╗╜Ш╣n╦Э║B╕╗╜Ш╣n╓J║B╣n╓J╢а╜╜╨ч╡z
-+ [] rc/pkg-customer.lisp еU╚х╣n╦Э║BеU╚х╣n╓J║B╣n╓J╢а╜╜╨ч╡z
-+ [] rc/pkg-list.lisp ╡ё╚~╔ь©Щ
-+ [] rc/pkg-cart.lisp ай╙╚╗╝
-+ [] rc/pkg-order.lisp ╜qЁФ
-+ [] rc/pkg-voucher.lisp ╡╪╗И
+## Ф╗║Г╣└
+### Г╣╠Г╠▄Ф╗║Г╣└
++ [ ] ...
+### ХЁ┤Ф╨░Ф╗║Г╣└
++ [x] rc/pkg-staff.lisp Ф┬░Е⌠║Г≥╩Х╪┴Ц─│Ф┬░Е⌠║Г≥╩Е┘╔Ц─│Г≥╩Е┘╔Ф°÷И≥░Г╝║Г░├
++ [ ] rc/pkg-customer.lisp И║╖Е╝╒Г≥╩Х╪┴Ц─│И║╖Е╝╒Г≥╩Е┘╔Ц─│Г≥╩Е┘╔Ф°÷И≥░Г╝║Г░├
++ [ ] rc/pkg-list.lisp Г■╒Е⌠│Г⌡╝И▄└
++ [ ] rc/pkg-cart.lisp ХЁ╪Г┴╘Х╩┼
++ [ ] rc/pkg-order.lisp Х╗┌Е√╝
++ [ ] rc/pkg-voucher.lisp Г╔╗Е┬╦
